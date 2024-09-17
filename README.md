@@ -10,13 +10,15 @@ pythonLearning/
 ├── Day1/
 │   ├── DataTypes.py
 │   ├── String.py
+│
+├── Day2/
 │   ├── List.py
 │   ├── Tuples.py
 │   └── Sets.py
 ├── .gitignore
 └── README.md
-
 ```
+
 ### Files:
 
 - **`DataTypes.py`**: Contains examples of various Python data types, such as variables, lists, tuples, ranges, dictionaries, sets, and frozensets. This file demonstrates how to work with and manipulate these data structures.
