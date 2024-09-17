@@ -82,7 +82,7 @@ pythonLearning/
     - `symmetric_difference()` and `^`: Return a new set with elements not present in both sets.
     - `symmetric_difference_update()`: Modifies the original set to only keep unique elements from both sets.
 
-**`Dictionaries.py`**: `Dictionaries.py` demonstrates various operations with dictionaries in Python, including dictionary creation, accessing values, adding/updating key-value pairs, and removing entries. It also covers advanced concepts like merging dictionaries and checking for key existence.
+- **`Dictionaries.py`**: `Dictionaries.py` demonstrates various operations with dictionaries in Python, including dictionary creation, accessing values, adding/updating key-value pairs, and removing entries. It also covers advanced concepts like merging dictionaries and checking for key existence.
 
   *Key Topics*
   - **Dictionary creation**: Creating dictionaries using literals.
