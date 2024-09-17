@@ -95,5 +95,6 @@ pythonLearning/
   - **Merging dictionaries**: Using the `update()` method to merge two dictionaries.
   - **Removing key-value pairs**: Using `del` and `pop()` to remove entries.
   - **Checking for key existence**: Using the `in` keyword to verify the presence of keys in a dictionary.
+  - **Nested dictionaries**: Working with dictionaries inside dictionaries and iterating through them.
 
 
