@@ -59,12 +59,20 @@ pythonLearning/
   - Unpacking tuples
   - Looping through tuples and using asterisk * for unpacking
     
-- **`Sets.py`**: Explores the use of sets in Python, including set creation, handling mixed data types, and operations like adding elements. It demonstrates set behavior with duplicates, usage of the `set()` constructor, and accessing elements in sets.
+- **`Sets.py`**: Explores various operations with sets in Python, including set creation, handling mixed data types, adding elements, removing elements, and joining sets. It covers advanced set operations such as union, difference, and symmetric difference.
 
-  Key Topics:
-  - Set creation and initialization
-  - Handling duplicates (True/1 and False/0 values)
-  - Using the `set()` constructor to create sets
-  - Accessing elements in sets using loops
-  - Adding new items to sets (since existing items cannot be modified)
+  *Key Topics*:
+  - **Set creation**: Creating sets with literals and the `set()` constructor.
+  - **Handling duplicates**: Understanding how `True/1` and `False/0` are treated as duplicates.
+  - **Accessing elements**: Iterating through set elements using loops.
+  - **Adding items**: Using `add()` to add items and `update()` to add multiple elements or iterable items like lists.
+  - **Removing items**: Using `remove()` and `discard()`, and understanding how `pop()` removes a random element.
+  - **Clearing and deleting sets**: Using `clear()` to empty a set and `del` to delete a set.
+  - **Joining sets**: Using `union()`, `|`, and `update()` to combine sets.
+  - **Difference and symmetric difference**:
+    - `difference()` and `-`: Return a new set with elements present in the first set but not in the second.
+    - `difference_update()`: Modifies the original set to keep only unique elements.
+    - `symmetric_difference()` and `^`: Return a new set with elements not present in both sets.
+    - `symmetric_difference_update()`: Modifies the original set to only keep unique elements from both sets.
+
 
