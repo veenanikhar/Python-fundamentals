@@ -14,9 +14,11 @@ pythonLearning/
 ├── Day2/
 │   ├── List.py
 │   ├── Tuples.py
-│   └── Sets.py
+│   ├── Sets.py
+│   └── Dictionaries.py
 ├── .gitignore
 └── README.md
+
 ```
 
 ### Files:
@@ -79,5 +81,21 @@ pythonLearning/
     - `difference_update()`: Modifies the original set to keep only unique elements.
     - `symmetric_difference()` and `^`: Return a new set with elements not present in both sets.
     - `symmetric_difference_update()`: Modifies the original set to only keep unique elements from both sets.
+
+## Dictionaries.py
+
+`Dictionaries.py` demonstrates various operations with dictionaries in Python, including dictionary creation, accessing values, adding/updating key-value pairs, and removing entries. It also covers advanced concepts like merging dictionaries and checking for key existence.
+
+ *Key Topics*
+ - **Dictionary creation**: Creating dictionaries using literals.
+ - **Accessing values**: Retrieving values using keys and handling missing keys with the `get()` method.
+ - **Adding or updating key-value pairs**: Adding new keys or updating existing keys in the dictionary.
+ - **Iterating through a dictionary**:
+   - Looping through dictionary keys.
+   - Looping through dictionary values.
+   - Looping through key-value pairs using the `.items()` method.
+ - **Merging dictionaries**: Using the `update()` method to merge two dictionaries.
+ - **Removing key-value pairs**: Using `del` and `pop()` to remove entries.
+ - **Checking for key existence**: Using the `in` keyword to verify the presence of keys in a dictionary.
 
 
