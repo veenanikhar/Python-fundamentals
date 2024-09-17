@@ -18,7 +18,7 @@ pythonLearning/
 
 - **`DataTypes.py`**: Contains examples of various Python data types, such as variables, lists, tuples, ranges, dictionaries, sets, and frozensets. This file demonstrates how to work with and manipulate these data structures.
 
-  Key Topics:
+  *Key Topics*:
   - Variable declaration and type checking
   - List manipulation
   - Tuple immutability
@@ -29,14 +29,14 @@ pythonLearning/
 
 - **`String.py`**: Includes string manipulation examples in Python, such as checking for substrings, accessing string characters, checking if a string contains certain values, and measuring string length.
 
-  Key Topics:
+  *Key Topics*:
   - String indexing
   - Checking if a substring exists in a string
   - String length measurement
 
 - **`List.py`**: Demonstrates operations and properties of Python lists, including creating lists, accessing elements, modifying values, handling heterogeneous data, and list operations such as appending, inserting, and popping elements.
 
-  Key Topics:
+  *Key Topics*:
   - List creation and element access
   - Modifying list elements
   - Handling heterogeneous data types in a list
@@ -49,7 +49,7 @@ pythonLearning/
     
 - **`Tuples.py`**: Illustrates various operations with tuples, including creating tuples, accessing elements, updating tuples by converting them to lists, adding and removing items, unpacking tuples, and looping through them.
 
-  Key Topics:
+  *Key Topics*:
   - Tuple creation and length
   - Creating a tuple with one item
   - Using the tuple() constructor
