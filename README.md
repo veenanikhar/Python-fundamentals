@@ -46,3 +46,15 @@ pythonLearning/
   - Case-insensitive sorting
   - Reversing lists
   - Copying lists (using copy() and list() methods)
+    
+- **Tuples.py**: Illustrates various operations with tuples, including creating tuples, accessing elements, updating tuples by converting them to lists, adding and removing items, unpacking tuples, and looping through them.
+
+  Key Topics:
+  - Tuple creation and length
+  - Creating a tuple with one item
+  - Using the tuple() constructor
+  - Accessing tuple elements
+  - Updating tuples (converting to list and back)
+  - Adding and removing items from tuples
+  - Unpacking tuples
+  - Looping through tuples and using asterisk * for unpacking
