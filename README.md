@@ -43,3 +43,7 @@ pythonLearning/
   - Handling heterogeneous data types in a list
   - Dynamic resizing of lists (append, insert)
   - Nested list access and manipulation (popping elements)
+  - Looping through lists (element and index)
+  - Case-insensitive sorting
+  - Reversing lists
+  - Copying lists (using copy() and list() methods)
