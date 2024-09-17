@@ -47,3 +47,28 @@ my_dict.pop("city")  # Remove key 'city'
 if "name" in my_dict:
   print("Key 'name' is present") # Output: Key 'name' is present
 
+# Nested Dictionry
+myfamily = {
+  "child1" : {
+    "name" : "T",
+    "year" : 1984
+  },
+  "child2" : {
+    "name" : "R",
+    "year" : 1987
+  },
+  "child3" : {
+    "name" : "V",
+    "year" : 1999
+  }
+}
+
+# Access Items in Nested Dictionaries
+print(myfamily["child2"]["name"])
+
+# Loop Through Nested Dictionaries
+for x, obj in myfamily.items():
+  print(x)
+
+  for y in obj:
+    print(y + ':', obj[y])
