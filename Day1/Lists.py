@@ -34,3 +34,39 @@ inner_list = mixed_list[4]
 popped_value = inner_list.pop(0)
 print(popped_value)
 print(mixed_list)
+
+# Loop Through a List
+for x in my_list:
+  print(x, end=' ')
+  
+# Loop Through the Index Numbers
+for i in range(len(my_list)):
+  print(my_list[i])
+  
+
+# Case Insensitive Sort
+alphabates = ["o", "B", "k", "e", "A"]
+# alphabates.sort()
+print(alphabates)
+
+
+# if you want a case-insensitive sort function, 
+# use str.lower as a key function
+alphabates.sort(key = str.lower)
+print(alphabates)
+
+alphabates = alphabates[2:] + alphabates[0:2]
+print(alphabates)
+
+# Reverse Order
+alphabates.reverse()
+print(alphabates)
+
+# Copy Lists
+# Use the copy() method
+copy_Alpha = alphabates.copy()
+print(alphabates)
+
+# Use the list() method
+list_alpha = list(alphabates)
+print(alphabates)
