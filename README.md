@@ -58,3 +58,13 @@ pythonLearning/
   - Adding and removing items from tuples
   - Unpacking tuples
   - Looping through tuples and using asterisk * for unpacking
+    
+- **`Sets.py`**: Explores the use of sets in Python, including set creation, handling mixed data types, and operations like adding elements. It demonstrates set behavior with duplicates, usage of the `set()` constructor, and accessing elements in sets.
+
+  Key Topics:
+  - Set creation and initialization
+  - Handling duplicates (True/1 and False/0 values)
+  - Using the `set()` constructor to create sets
+  - Accessing elements in sets using loops
+  - Adding new items to sets (since existing items cannot be modified)
+
