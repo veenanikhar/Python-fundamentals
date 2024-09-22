@@ -1,4 +1,4 @@
 def my_function(**kid):
-  print("His last name is " + kid["lname"])
+  print("last name is " + kid["lname"])
 
 my_function(fname = "Anna", lname = "Devid")

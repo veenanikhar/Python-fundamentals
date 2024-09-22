@@ -17,3 +17,7 @@ del p1.age
 
 # Delete Objects
 del p1
+
+# pass statement
+# class Person:
+#   pass
